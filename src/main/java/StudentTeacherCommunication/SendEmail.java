@@ -1,5 +1,6 @@
 package main.java.StudentTeacherCommunication;
 
 public class SendEmail {
-    // write and send new email
+    // find recipient(s) by search
+    // compose and send new email
 }
